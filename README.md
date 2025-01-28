@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/4ced099e-5959-4d9a-937c-e5770d816544
 
 ## Assumption
 
->  Material-UI is used a styling library
+>  Material-UI is used as a styling library
 
 >  No limit on nested comments - Dynamic in nature (Configurable for future using config)
 
