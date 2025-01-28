@@ -1,3 +1,7 @@
+# Demo
+
+https://github.com/user-attachments/assets/4ced099e-5959-4d9a-937c-e5770d816544
+
 # Installation Guide
 
 ## Follow below steps to setup the community project
@@ -10,9 +14,7 @@
 
 > npm run dev
 
-
 ## Assumption
-
 
 >  Material-UI is used a styling library
 
